@@ -2,10 +2,13 @@
 
 This repository contains a real-time chat application built using Firebase and React. Users can sign in with Google, join chatroom, and exchange messages in real-time.
 
-![image](https://github.com/ksvskarthik7/React-Firebase-Chatroom/assets/114343100/1573d4c8-58f4-454a-a86c-33de16289703)
+![image](https://github.com/ksvskarthik7/React-Firebase-Chatroom/assets/114343100/ea7f1ba0-b5ad-436d-9efa-26f08fa6cd86)
 
 
-![image](https://github.com/ksvskarthik7/React-Firebase-Chatroom/assets/114343100/e4bce71e-168b-4bf8-a592-b96b24c41789)
+
+
+![image](https://github.com/ksvskarthik7/React-Firebase-Chatroom/assets/114343100/a942a9ff-a089-4f62-9027-16a93da6cc20)
+
 
 
 
